@@ -12,7 +12,7 @@ namespace DevOpsGitExample
     public class Startup
     {
         public Startup(IConfiguration configuration)
-        {
+        {//changes
             Configuration = configuration;
         }
 
